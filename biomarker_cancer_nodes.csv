@@ -1,0 +1,19 @@
+node,type
+ALK,biomarker
+BRAF,biomarker
+BRCA1,biomarker
+BRCA2,biomarker
+CA-125,biomarker
+CA19-9,biomarker
+CEA,biomarker
+EGFR,biomarker
+HER2,biomarker
+KRAS,biomarker
+PD-L1,biomarker
+PSA,biomarker
+Breast Cancer,cancer
+Colorectal Cancer,cancer
+Lung Cancer,cancer
+Ovarian Cancer,cancer
+Pancreatic Cancer,cancer
+Prostate Cancer,cancer

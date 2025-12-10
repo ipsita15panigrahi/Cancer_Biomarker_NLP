@@ -1,0 +1,16 @@
+biomarker,cancer,count
+PSA,Prostate Cancer,1
+CA-125,Ovarian Cancer,1
+CEA,Colorectal Cancer,1
+CEA,Lung Cancer,1
+HER2,Breast Cancer,1
+EGFR,Lung Cancer,1
+PD-L1,Lung Cancer,1
+BRAF,Colorectal Cancer,1
+KRAS,Colorectal Cancer,1
+CA19-9,Pancreatic Cancer,1
+BRCA2,Breast Cancer,1
+BRCA2,Ovarian Cancer,1
+BRCA1,Breast Cancer,1
+BRCA1,Ovarian Cancer,1
+ALK,Lung Cancer,1
